@@ -1,5 +1,15 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "id": 1,
+      "name": "",
+      "class": "",
+      "address": "b",
+      "email": "m",
+      "city": "n",
+      "password": "m"
+    }
+  ],
   "comments": [],
   "profile": {
     "name": "typicode"
